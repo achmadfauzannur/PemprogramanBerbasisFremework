@@ -1,0 +1,86 @@
+{
+  "KipasAngin": [
+    {
+      "id": 1,
+      "nama": "Philips Diva GC122",
+      "harga": 144900,
+      "gambar": "https://www.selera.id/wp-content/uploads/2019/12/Kipas-Angin-Paling-Bagus-Cosmos-16-WFO-Wall-Fan.jpg",
+      "stok": 2
+    },
+    {
+      "id": 1,
+      "nama": "Kipas Angin Berdiri/Stand",
+      "harga": 107.500,
+      "gambar": "https://www.selera.id/wp-content/uploads/2019/12/Kipas-Angin-Paling-Bagus-Cosmos-16-SDB-Stand-Fan.jpg",
+      "stok": 2
+    },
+    {
+      "id": 2,
+      "nama": "Kipas Angin Mobil Double",
+      "harga": 74.500,
+      "gambar": "https://www.selera.id/wp-content/uploads/2019/12/Kipas-Angin-Paling-Bagus-Sekai-HFN-1050-Velocity-Fan.jpg",
+      "stok": 2
+  
+    },
+    {
+      "id": 4,
+      "nama": "Kipas Angin Dinding NAGOYA",
+      "harga": 134.000,
+      "gambar": "https://www.selera.id/wp-content/uploads/2019/12/Kipas-Angin-Paling-Bagus-Sekai-HFN-1050-Velocity-Fan.jpg",
+      "stok": 2
+    },
+    {
+      "id": 4,
+      "nama": "Miyako KAW 1689-RC",
+      "harga": 175000,
+      "gambar": "https://blog.elevenia.co.id/wp-content/uploads/2019/05/Miyako-KAW-1689-RC1.png",
+      "stok": 2
+    },
+    {
+      "id": 5,
+      "nama": "Miyoshi Wall Fan",
+      "harga": 78000,
+      "gambar": "https://blog.elevenia.co.id/wp-content/uploads/2019/05/Miyoshi-Wall-Fan1.png",
+      "stok": 2
+    },
+    {
+      "id": 6,
+      "nama": "Cosmos stand fan 16SO33",
+      "harga": 75000,
+      "gambar": "https://blog.elevenia.co.id/wp-content/uploads/2019/05/Cosmos-stand-fan-16SO331.png",
+      "stok": 2
+    },
+    {
+      "id": 7,
+      "nama": "Miyako KAD-1227 B Desk Fan",
+      "harga": 93000,
+      "gambar": "https://www.selera.id/wp-content/uploads/2019/12/Kipas-Angin-Paling-Bagus-Miyako-KAD-1227-B-Desk-Fan.jpg",
+      "stok": 2
+    },
+    {
+      "id": 8,
+      "nama": "Midea stand fan tipe FS40-10N",
+      "harga": 80000,
+      "gambar": "https://blog.elevenia.co.id/wp-content/uploads/2019/05/Midea-stand-fan-tipe-FS40-10N1.png",
+      "stok": 2
+    },
+    {
+      "id": 9,
+      "nama": "Panasonic EP405",
+      "harga": 135000,
+      "gambar": "https://blog.elevenia.co.id/wp-content/uploads/2019/05/Panasonic-stand-fan-tipe-F-EP4051.png",
+      "stok": 2
+    },
+    {
+      "id": 10,
+      "nama": "Miyako Desk Fan KAD-927 B/P",
+      "harga": 100000,
+      "gambar": "https://www.selera.id/wp-content/uploads/2019/12/Kipas-Angin-Paling-Bagus-Miyako-Desk-Fan-KAD-927-B-atau-P.jpg",
+      "stok": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

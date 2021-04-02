@@ -36,3 +36,55 @@
     transform: rotate(360deg);
   }
 }
+
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(7, 94, 12, 0.712);
+  border:1px solid rgb(0, 151, 88);
+}
+
+.menu li {
+  float: left;
+}
+.menu li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  transition: 1s;
+}
+
+.menu li a:hover {
+  background-color: rgba(10, 151, 53, 0.486);
+  color:black;
+}
+
+.btn {
+  border:none;
+  background: #1bb33586;
+  padding:10px;
+  margin-top:20px;
+  width:100%;
+  cursor: pointer;
+  color:#FFF;
+  position: relative;
+  transition:1s;
+}
+
+.btn:hover {
+  background: #003d7d;
+}
+
+h2 {
+  margin-top:10px;
+  color:rgb(14, 12, 12);
+  font-style:italic;
+}
+
+th {
+  text-align:center;
+}

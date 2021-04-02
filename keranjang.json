@@ -1,0 +1,63 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "nama": "Kipas Angin Berdiri/Stand",
+      "harga": 107.5,
+      "jumlah": 6
+    },
+    {
+      "id": 2,
+      "nama": "Kipas Angin Mobil Double",
+      "harga": 74.5,
+      "stok": 2,
+      "jumlah": 6
+    },
+    {
+      "id": 4,
+      "nama": "Kipas Angin Dinding NAGOYA",
+      "harga": 134,
+      "stok": 2,
+      "jumlah": 4
+    },
+    {
+      "id": 9,
+      "nama": "Panasonic EP405",
+      "harga": 135000,
+      "stok": 2,
+      "jumlah": 1
+    },
+    {
+      "id": 10,
+      "nama": "Miyako Desk Fan KAD-927 B/P",
+      "harga": 100000,
+      "stok": 2,
+      "jumlah": 2
+    },
+    {
+      "id": 6,
+      "nama": "Cosmos stand fan 16SO33",
+      "harga": 75000,
+      "stok": 2,
+      "jumlah": 2
+    },
+    {
+      "id": 7,
+      "nama": "Miyako KAD-1227 B Desk Fan",
+      "harga": 93000,
+      "stok": 2,
+      "jumlah": 1
+    },
+    {
+      "id": 8,
+      "nama": "Midea stand fan tipe FS40-10N",
+      "harga": 80000,
+      "stok": 2,
+      "jumlah": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
